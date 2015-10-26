@@ -1,0 +1,2379 @@
+fileFormatVersion: 2
+guid: f7c876657cde34a49b20c11cf2c615bb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_0
+    21300002: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_1
+    21300004: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_2
+    21300006: Enemy1_walk_1
+    21300008: Enemy1_walk_2
+    21300010: Enemy1_walk_3
+    21300012: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_6
+    21300014: Coin_1
+    21300016: Coin_2
+    21300018: Coin_3
+    21300020: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_10
+    21300022: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_11
+    21300024: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_12
+    21300026: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_13
+    21300028: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_14
+    21300030: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_15
+    21300032: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_16
+    21300034: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_17
+    21300036: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_18
+    21300038: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_19
+    21300040: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_20
+    21300042: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_21
+    21300044: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_22
+    21300046: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_23
+    21300048: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_24
+    21300050: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_25
+    21300052: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_26
+    21300054: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_27
+    21300056: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_28
+    21300058: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_29
+    21300060: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_30
+    21300062: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_31
+    21300064: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_32
+    21300066: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_33
+    21300068: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_34
+    21300070: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_35
+    21300072: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_36
+    21300074: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_37
+    21300076: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_38
+    21300078: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_39
+    21300080: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_40
+    21300082: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_41
+    21300084: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_42
+    21300086: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_43
+    21300088: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_44
+    21300090: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_45
+    21300092: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_46
+    21300094: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_47
+    21300096: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_48
+    21300098: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_49
+    21300100: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_50
+    21300102: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_51
+    21300104: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_52
+    21300106: Hero_Walk_1
+    21300108: Hero_Stand
+    21300110: Hero_Walk_2
+    21300112: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_56
+    21300114: Hero_Walk_3
+    21300116: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_58
+    21300118: Hero_Jump
+    21300120: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_60
+    21300122: Enemy2_walk_1
+    21300124: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_62
+    21300126: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_63
+    21300128: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_64
+    21300130: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_65
+    21300132: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_66
+    21300134: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_67
+    21300136: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_68
+    21300138: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_69
+    21300140: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_70
+    21300142: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_71
+    21300144: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_72
+    21300146: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_73
+    21300148: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_74
+    21300150: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_75
+    21300152: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_76
+    21300154: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_77
+    21300156: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_78
+    21300158: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_79
+    21300160: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_80
+    21300162: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_81
+    21300164: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_82
+    21300166: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_83
+    21300168: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_84
+    21300170: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_85
+    21300172: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_86
+    21300174: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_87
+    21300176: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_88
+    21300178: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_89
+    21300180: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_90
+    21300182: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_91
+    21300184: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_92
+    21300186: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_93
+    21300188: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_94
+    21300190: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_95
+    21300192: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_96
+    21300194: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_97
+    21300196: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_98
+    21300198: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_99
+    21300200: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_100
+    21300202: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_101
+    21300204: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_102
+    21300206: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_103
+    21300208: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_104
+    21300210: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_105
+    21300212: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_106
+    21300214: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_107
+    21300216: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_108
+    21300218: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_109
+    21300220: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_110
+    21300222: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_111
+    21300224: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_112
+    21300226: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_113
+    21300228: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_114
+    21300230: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_115
+    21300232: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_116
+    21300234: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_117
+    21300236: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_118
+    21300238: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_119
+    21300240: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_120
+    21300242: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_121
+    21300244: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_122
+    21300246: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_123
+    21300248: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_124
+    21300250: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_125
+    21300252: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_126
+    21300254: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_127
+    21300256: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_128
+    21300258: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_129
+    21300260: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_130
+    21300262: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_131
+    21300264: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_132
+    21300266: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_133
+    21300268: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_134
+    21300270: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_135
+    21300272: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_136
+    21300274: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_137
+    21300276: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_138
+    21300278: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_139
+    21300280: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_140
+    21300282: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_141
+    21300284: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_142
+    21300286: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_143
+    21300288: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_144
+    21300290: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_145
+    21300292: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_146
+    21300294: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_147
+    21300296: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_148
+    21300298: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_149
+    21300300: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_150
+    21300302: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_151
+    21300304: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_152
+    21300306: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_153
+    21300308: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_154
+    21300310: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_155
+    21300312: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_156
+    21300314: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_157
+    21300316: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_158
+    21300318: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_159
+    21300320: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_160
+    21300322: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_161
+    21300324: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_162
+    21300326: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_163
+    21300328: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_164
+    21300330: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_165
+    21300332: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_166
+    21300334: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_167
+    21300336: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_168
+    21300338: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_169
+    21300340: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_170
+    21300342: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_171
+    21300344: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_172
+    21300346: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_173
+    21300348: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_174
+    21300350: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_175
+    21300352: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_176
+    21300354: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_177
+    21300356: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_178
+    21300358: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_179
+    21300360: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_180
+    21300362: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_181
+    21300364: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_182
+    21300366: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_183
+    21300368: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_184
+    21300370: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_185
+    21300372: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_186
+    21300374: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_187
+    21300376: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_188
+    21300378: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_189
+    21300380: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_190
+    21300382: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_191
+    21300384: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_192
+    21300386: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_193
+    21300388: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_194
+    21300390: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_195
+    21300392: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_196
+    21300394: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_197
+    21300396: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_198
+    21300398: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_199
+    21300400: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_200
+    21300402: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_201
+    21300404: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_202
+    21300406: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_203
+    21300408: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_204
+    21300410: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_205
+    21300412: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_206
+    21300414: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_207
+    21300416: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_208
+    21300418: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_209
+    21300420: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_210
+    21300422: Enemy2_walk_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 679
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 679
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy1_walk_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy1_walk_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 678
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy1_walk_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 690
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 687
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 687
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 687
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 688
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 688
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 688
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_13
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 686
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_14
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 686
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 686
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_16
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 686
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 696
+        width: 254
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 633
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 633
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 633
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 602
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 602
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 601
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 628
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 628
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 629
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 630
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_28
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 627
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_29
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 627
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_30
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 637
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_31
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 637
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_32
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 637
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_33
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 653
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_34
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 642
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_35
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 573
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_36
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 573
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_37
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 593
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_38
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 593
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_39
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 618
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_40
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 612
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_41
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 618
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 565
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 565
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 542
+        width: 197
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 555
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 555
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_47
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 552
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_49
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 554
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_50
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 574
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_51
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 573
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_52
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 580
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 481
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Stand
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 516
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 479
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 516
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 479
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 516
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Jump
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 477
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_60
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 481
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy2_walk_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 488
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_62
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 491
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_63
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 491
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_64
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 490
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_65
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 491
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_66
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 485
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_67
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 496
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_68
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 529
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_69
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 498
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_70
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 504
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_71
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 512
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_72
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 529
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_73
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 519
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_74
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 498
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_75
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 519
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_76
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 498
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_77
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 498
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 539
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_79
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 481
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_80
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 520
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_81
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 481
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_82
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 520
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_83
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 481
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_84
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 502
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_85
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 535
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_86
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 505
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_87
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 503
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_88
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 439
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_89
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 439
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_90
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 438
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_91
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 438
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 438
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 440
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_94
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 443
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_95
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 444
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 446
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_97
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 446
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_98
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 446
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_99
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 445
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_100
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 444
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_101
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_102
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 442
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_103
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 442
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_104
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_105
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_106
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 442
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_107
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 347
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 388
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_110
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 388
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_111
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 393
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_112
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 407
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_113
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 405
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_114
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 402
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_115
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 402
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_116
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 404
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_117
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 403
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_118
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 403
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_119
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 403
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_120
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_121
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_122
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 391
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_124
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 339
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_125
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 355
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_126
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 343
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_128
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_129
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_131
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_132
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_133
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_134
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_135
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 362
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_136
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_137
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_138
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_139
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_140
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_141
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_142
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_143
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_144
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_145
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 268
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_146
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 271
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 299
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_148
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 299
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_149
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 299
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_150
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 302
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_151
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 302
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_152
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 302
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_153
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 302
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_154
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_155
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_156
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_157
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 314
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_158
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 314
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_159
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 314
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_160
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_161
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_162
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_163
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_164
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_165
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 316
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_166
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 253
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_167
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 278
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_168
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 294
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_169
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 288
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_170
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 294
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_171
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 223
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_172
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 244
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_173
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 234
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_174
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 150
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_175
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 260
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 90
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_177
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 123
+        width: 373
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_178
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 161
+        width: 178
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_179
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 227
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_180
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 177
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_181
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 194
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_182
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 185
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_183
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 194
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_184
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 178
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_185
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 178
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_186
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 134
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_187
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 134
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_188
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 133
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_189
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 111
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_190
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 115
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_191
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 78
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_192
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 60
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_193
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 109
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_194
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 98
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_195
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_196
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_197
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_198
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 113
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_199
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_200
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 61
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_201
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_202
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 64
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_203
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_204
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_205
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_206
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_207
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 34
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_208
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 34
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_209
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 35
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_210
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 60
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy2_walk_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 488
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

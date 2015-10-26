@@ -1,0 +1,1 @@
+This folder is not necessary to the game and can be deleted.
